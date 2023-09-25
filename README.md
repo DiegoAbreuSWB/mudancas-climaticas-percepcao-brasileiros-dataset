@@ -2,8 +2,8 @@
 
 
 Esta base de dados consiste em informações coletadas de pesquisas que abordam as percepções ambientais e o comportamento social relacionado ao meio ambiente no Brasil. Os dados foram obtidos de entrevistas com indivíduos de diferentes faixas etárias, gêneros, níveis de educação e regiões do país. Abaixo, fornecemos uma visão geral das principais variáveis contidas nesta base de dados:
-
-#Variáveis Demográficas:
+**Variáveis Demográficas**
+- [Quickstart](#Variáveis de Percepção Ambiental)
 
 -ID_Ipec: Identificação única do respondente.
 -Fator_Ponderacao: Um fator de ponderação que pode ser usado para análises estatísticas ponderadas.
