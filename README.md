@@ -1,8 +1,6 @@
 # Descrição da Base de Dados sobre Percepções Ambientais
 
-
-Esta base de dados consiste em informações coletadas de pesquisas que abordam as percepções ambientais e o comportamento social relacionado ao meio ambiente no Brasil. Os dados foram obtidos de entrevistas com indivíduos de diferentes faixas etárias, gêneros, níveis de educação e regiões do país. Abaixo, fornecemos uma visão geral das principais variáveis contidas nesta base de dados:
-
+Table of Contents
 -<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
 - [vars](#vars)
@@ -19,6 +17,10 @@ Esta base de dados consiste em informações coletadas de pesquisas que abordam 
 - [Licenses](#licenses)
 
 <!-- /TOC -->
+
+Introduction
+Esta base de dados consiste em informações coletadas de pesquisas que abordam as percepções ambientais e o comportamento social relacionado ao meio ambiente no Brasil. Os dados foram obtidos de entrevistas com indivíduos de diferentes faixas etárias, gêneros, níveis de educação e regiões do país. Abaixo, fornecemos uma visão geral das principais variáveis contidas nesta base de dados:
+
 #vars
 -ID_Ipec: Identificação única do respondente.
 -Fator_Ponderacao: Um fator de ponderação que pode ser usado para análises estatísticas ponderadas.
@@ -67,3 +69,8 @@ Percepção_Aumento_Preco_Alimentos: Percepção do respondente sobre o aumento 
 -Terceiro_Contribuidor_Resolucao_Mudancas_Climaticas: Percepção do respondente sobre o terceiro contribuidor para a resolução das mudanças climáticas.
 
 Esses dados são valiosos para compreender as percepções, atitudes e comportamentos da população brasileira em relação às questões ambientais e podem ser usados em análises e estudos relacionados às mudanças climáticas, conservação ambiental e conscientização pública. A diversidade de variáveis demográficas e ambientais torna essa base de dados uma fonte rica de informações para pesquisadores, formuladores de políticas e organizações interessadas no tema do meio ambiente no Brasil.
+
+
+
+Cite this work
+Licenses
