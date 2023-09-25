@@ -5,7 +5,7 @@ Esta base de dados consiste em informações coletadas de pesquisas que abordam 
 
 -<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
-- [Quickstart](#Variáveis_Demográficas)
+- [vars](#vars)
 - [Introduction](#introduction)
 - [CoDesc Dataset](#codesc-dataset)
     - [Python to Java Translation](#python-to-java-translation)
@@ -19,7 +19,7 @@ Esta base de dados consiste em informações coletadas de pesquisas que abordam 
 - [Licenses](#licenses)
 
 <!-- /TOC -->
-##Variáveis_Demográficas
+#vars
 -ID_Ipec: Identificação única do respondente.
 -Fator_Ponderacao: Um fator de ponderação que pode ser usado para análises estatísticas ponderadas.
 -Sexo: Gênero do respondente.
