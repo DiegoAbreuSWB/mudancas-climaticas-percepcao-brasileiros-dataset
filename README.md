@@ -1,76 +1,51 @@
-# Descrição da Base de Dados sobre Percepções Ambientais
+# Base de Dados sobre Mudanças Climáticas na Percepção dos Brasileiros
 
-Table of Contents
--<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
-
-- [vars](#vars)
-- [Introduction](#introduction)
-- [CoDesc Dataset](#codesc-dataset)
-    - [Python to Java Translation](#python-to-java-translation)
-    - [CoDesc Dataset Creation](#codesc-dataset-creation)
-    - [Preprocess CoDesc for Code Search](#preprocess-codesc-for-code-search)
-    - [Preprocess CoDesc for Code Summarization](#preprocess-codesc-for-code-summarization)
-- [Tokenizer](#tokenizer)
-- [Code Search](#code-search)
-- [Code Summarization](#code-summarization)
-- [Cite](#cite-this-work)
-- [Licenses](#licenses)
-
-<!-- /TOC -->
-
-Introduction
-Esta base de dados consiste em informações coletadas de pesquisas que abordam as percepções ambientais e o comportamento social relacionado ao meio ambiente no Brasil. Os dados foram obtidos de entrevistas com indivíduos de diferentes faixas etárias, gêneros, níveis de educação e regiões do país. Abaixo, fornecemos uma visão geral das principais variáveis contidas nesta base de dados:
-
-#vars
--ID_Ipec: Identificação única do respondente.
--Fator_Ponderacao: Um fator de ponderação que pode ser usado para análises estatísticas ponderadas.
--Sexo: Gênero do respondente.
--Idade: Idade do respondente.
--Faixa_Idade: Faixa etária do respondente.
--Estado: Estado em que o respondente reside.
--Municipio: Município de residência do respondente.
--Regiao: Região geográfica do Brasil a que pertence o município de residência.
--Classe_Economica: Classe econômica do respondente.
-
-#Variáveis de Percepção Ambiental:
-
-#Nível_Preocupação_Meio_Ambiente: Nível de preocupação do respondente com o meio ambiente.
-Conhecimento_Aquecimento_Global: Conhecimento do respondente sobre o aquecimento global.
-Opinião_Aquecimento_Global_Ocorrendo: Opinião do respondente sobre se o aquecimento global está ocorrendo.
-Percepção_Aumento_Temperatura: Percepção do respondente sobre o aumento da temperatura.
-Percepção_Aumento_Poluicao_Ar: Percepção do respondente sobre o aumento da poluição do ar.
-Percepção_Aumento_Temperatura: Percepção do respondente sobre o aumento da temperatura.
-Percepção_Aumento_Conta_Energia: Percepção do respondente sobre o aumento das contas de energia.
-Percepção_Aumento_Preco_Alimentos: Percepção do respondente sobre o aumento dos preços dos alimentos.
-
-#Variáveis de Comportamento Ambiental:
-
--Costuma_Separar_Lixo_Reciclagem: Se o respondente costuma separar o lixo para reciclagem.
--Utiliza_Energia_Solar_Ou_Nao_Poluente: Se o respondente utiliza energia solar ou outra fonte de energia não poluente.
--Participou_Manifestacao_Mudanca_Climatica: Se o respondente já participou de manifestações relacionadas às mudanças climáticas.
--Votou_Politico_Propostas_Meio_Ambiente: Se o respondente votou em políticos que defendem propostas relacionadas ao meio ambiente.
--Doacao_Instituicoes_Meio_Ambiente: Se o respondente faz doações para instituições que trabalham em prol do meio ambiente.
--Compartilhou_Info_Defesa_Meio_Ambiente: Se o respondente compartilha informações relacionadas à defesa do meio ambiente.
--Ouviu_Falar_Queimadas_Amazonia: Se o respondente ouviu falar das queimadas na Amazônia.
--Opiniao_Causa_Queimadas_Amazonia: Opinião do respondente sobre a causa das queimadas na Amazônia.
--Informacao_Principalmente_TV_Aberta: Meio de informação principal do respondente sobre questões ambientais.
-
-#Variáveis Sociais e Culturais:
-
--Escolaridade: Nível de escolaridade do respondente.
--Raca: Raça ou etnia do respondente.
--Religiao: Religião do respondente.
--Orientacao_Politica_Esquerda_Direita_Centro: Orientação política do respondente.
-
-#Outras Variáveis:
-
--Principal_Contribuidor_Resolucao_Mudancas_Climaticas: Percepção do respondente sobre o principal contribuidor para a resolução das mudanças climáticas.
--Segundo_Contribuidor_Resolucao_Mudancas_Climaticas: Percepção do respondente sobre o segundo contribuidor para a resolução das mudanças climáticas.
--Terceiro_Contribuidor_Resolucao_Mudancas_Climaticas: Percepção do respondente sobre o terceiro contribuidor para a resolução das mudanças climáticas.
-
-Esses dados são valiosos para compreender as percepções, atitudes e comportamentos da população brasileira em relação às questões ambientais e podem ser usados em análises e estudos relacionados às mudanças climáticas, conservação ambiental e conscientização pública. A diversidade de variáveis demográficas e ambientais torna essa base de dados uma fonte rica de informações para pesquisadores, formuladores de políticas e organizações interessadas no tema do meio ambiente no Brasil.
+## Conteúdo
+- [Especificações Técnicas](#especificações-técnicas)
 
 
+## Especificações Técnicas
 
-Cite this work
-Licenses
+#### Objetivo
+
+Levantar dados sobre a percepção da população brasileira a respeito de questões relativas ao clima e ao meio ambiente.
+
+#### Amostra
+
+2.600 entrevistas.
+
+#### Método e coleta de dados
+
+Pesquisa quantitativa/Entrevistas telefônicas - sistema C.A.T.I.
+
+#### Ponderação
+
+Fatores de ponderação foram calculados pelo Ipec para correção de cotas populacionais, com base em dados da PNAD-IBGE.
+
+#### Universo
+
+População brasileira com 18 anos ou mais.
+
+#### Margem de erro
+
+2 pontos percentuais para o total da amostra, considerando um nível de confiança de 95%.
+
+#### Desenho e seleção da amostra
+
+Amostra de 2.600 entrevistas, representativa da população brasileira com 18 anos ou mais. Números de telefones de telefonia fixa e celular foram selecionados aleatoriamente para a realização das entrevistas.
+
+#### Número de entrevistadores
+
+126 entrevistadores.
+
+#### Instrumento de coleta de dados 
+
+Questionário estruturado pelo Ipec e submetido à aprovação do cliente, com duração média de 22 minutos.
+
+#### Controle de Qualidade
+
+100% dos questionários foram submetidos a um teste eletrônico de consistência para verificação de coerência das respostas. Pelo menos 20% do material dos entrevistadores foi criticado e verificado.
+
+* Os trabalhos de campo e processamento foram realizados com apoio desta estrutura interna e através de parceiros.
+* As atividades do Ipec são regidas por padrões éticos da Associação Brasileira das Empresas de Pesquisa (ABEP) e da European Society for Opinion and Marketing Research (ESOMAR).
+* Além disso, os nossos procedimentos estão em conformidade com a Norma Internacional de Qualidade em Pesquisa de Mercado e Opinião – ISO 20252 e a Norma Internacional de Gestão de Qualidade ISO 9001.
