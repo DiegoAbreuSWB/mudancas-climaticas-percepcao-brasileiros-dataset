@@ -1,5 +1,7 @@
 # Base de Dados sobre Mudanças Climáticas na Percepção dos Brasileiros
 
+Este repositório abriga um conjunto de dados aberto e abrangente que se concentra na percepção das mudanças climáticas entre os brasileiros. O conjunto de dados é uma compilação de pesquisas e estudos realizados em todo o Brasil, coletando informações sobre como os cidadãos brasileiros percebem e respondem às mudanças climáticas, suas atitudes em relação ao meio ambiente e suas práticas sustentáveis.
+
 ## Conteúdo
 - [Especificações Técnicas](#especificações-técnicas)
 - [Colaboradores](#colaboradores)
