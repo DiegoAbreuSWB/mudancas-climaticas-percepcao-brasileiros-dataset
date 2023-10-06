@@ -2,6 +2,8 @@
 
 ## Conteúdo
 - [Especificações Técnicas](#especificações-técnicas)
+- [Colaboradores](#colaboradores)
+- [Saiba mais](#saiba-mais)
 
 
 ## Especificações Técnicas
@@ -49,3 +51,16 @@ Questionário estruturado pelo Ipec e submetido à aprovação do cliente, com d
 * Os trabalhos de campo e processamento foram realizados com apoio desta estrutura interna e através de parceiros.
 * As atividades do Ipec são regidas por padrões éticos da Associação Brasileira das Empresas de Pesquisa (ABEP) e da European Society for Opinion and Marketing Research (ESOMAR).
 * Além disso, os nossos procedimentos estão em conformidade com a Norma Internacional de Qualidade em Pesquisa de Mercado e Opinião – ISO 20252 e a Norma Internacional de Gestão de Qualidade ISO 9001.
+
+## Colaboradores
+
+* [ITS Rio: Instituto de Tecnologia e Sociedade](https://itsrio.org/)
+* [Yale Program on Climate Change Communication](https://climatecommunication.yale.edu/)
+* [Ipec: Inteligência em Pesquisa e Consultoria Estratégica](https://www.ipec-inteligencia.com.br/)
+
+## Saiba mais
+
+Qualquer feedback para esse repositório é grandemente apreciado.
+
+* Site do projeto Mudanças climáticas na percepção dos brasileiros é esse [aqui](percepcaoclimatica.com.br)
+* Se você quiser entrar em contato diretamente ou saber sobre o programa de pesquisa, por favor envie um e-mail para [its@itsrio.org](its@itsrio.org) ou [imprensa@itsrio.org](imprensa@itsrio.org)
