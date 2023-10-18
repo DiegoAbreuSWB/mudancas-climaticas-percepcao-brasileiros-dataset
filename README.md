@@ -64,5 +64,5 @@ Questionário estruturado pelo Ipec e submetido à aprovação do cliente, com d
 
 Qualquer feedback para esse repositório é grandemente apreciado.
 
-* Site do projeto Mudanças climáticas na percepção dos brasileiros é esse [aqui](percepcaoclimatica.com.br)
+* Site do projeto Mudanças climáticas na percepção dos brasileiros é esse [aqui](https://www.percepcaoclimatica.com.br/))
 * Se você quiser entrar em contato diretamente ou saber sobre o programa de pesquisa, por favor envie um e-mail para [its@itsrio.org](its@itsrio.org) ou [imprensa@itsrio.org](imprensa@itsrio.org)
