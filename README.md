@@ -6,6 +6,7 @@ Este repositório abriga um conjunto de dados aberto e abrangente que se concent
 - [Especificações Técnicas](#especificações-técnicas)
 - [Colaboradores](#colaboradores)
 - [Saiba mais](#saiba-mais)
+- [Licença](#licença)
 
 
 ## Especificações Técnicas
@@ -66,3 +67,7 @@ Qualquer feedback para esse repositório é grandemente apreciado.
 
 * Site do projeto Mudanças climáticas na percepção dos brasileiros é esse [aqui](https://www.percepcaoclimatica.com.br/)
 * Se você quiser entrar em contato diretamente ou saber sobre o programa de pesquisa, por favor envie um e-mail para [its@itsrio.org](its@itsrio.org) ou [imprensa@itsrio.org](imprensa@itsrio.org)
+
+## Licença
+
+Base de dados licenciada sob [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/)
